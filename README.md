@@ -20,14 +20,13 @@ along the way._
 
 -----
 
-_Update (25/09/2022): The project is kind of on hold as I just started a new job and
-still adapting to the new schedule I have. Hence, the progress will be slower.
+The project is kind of slow phase coz i have job in parallel and am learning the things on the way. Hence, the progress will be slower.
 Hopefully, I can regain my momentum after a couple of weeks._
 
 ----
 
 ## End Goal
 
-The main focus to write a storage engine from scratch. This project now
+The main focus to write a in momery storage engine from scratch. This project now
 includes it's own B+ Tree data structure, buffer pool, LRU replacement policy,
 transaction manager, and lock manager.
