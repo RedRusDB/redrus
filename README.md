@@ -1,4 +1,4 @@
-# Rdrus A distributed in-memory k-v ased storage engine in Rust! 
+# Redrus A distributed in-memory k-v based storage engine in Rust! 
 
 
 Building a database from scratch has its own thrill, and you can leverage this to
