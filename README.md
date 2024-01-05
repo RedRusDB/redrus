@@ -1,8 +1,7 @@
-# Rdrus A distributed in-memory k-v ased storage engine in Rust! 
+# Rdrus A distributed in-memory k-v based storage engine in Rust! 
 
 
 Building a database from scratch has its own thrill, and you can leverage this to
-
 build a database from scratch
 learn database internals, starting with Redis
 learn about advanced data structures, algorithms, and event loops
