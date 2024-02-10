@@ -1,4 +1,4 @@
-# Redrus A distributed in-memory k-v based storage engine in Rust! 
+# Redrus a distributed in-memory k-v storage engine in Rust! 
 
 
 Building a database from scratch has its own thrill, and you can leverage this to
@@ -7,9 +7,10 @@ learn database internals, starting with Redis
 learn about advanced data structures, algorithms, and event loops
 collaborate with other engineers and contribute back to Open Source
 
-
-
 ## NOTE: In development
+
+- [.] REPL for kv store
+
 <!-- 
 While our B+ tree now support concurrent operations, it's still a single
 threaded database system, as our frontend (network/cli layer) doesn't support
