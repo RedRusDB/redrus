@@ -1,11 +1,11 @@
 use std::collections::HashMap;
 use std::io::{self, Write};
 
-pub struct KVStore {
+pub struct kvstore {
     store: HashMap<String, String>,
 }
 
-impl KVStore {
+impl kvstore {
     pub fn new() -> Self {
         Self {
             store: HashMap::new(),
@@ -30,7 +30,7 @@ impl KVStore {
 }
 
 pub fn repl() {
-    let mut kv = KVStore::new();
+    let mut kv = kvstore::new();
 
     println!(
         "\n
