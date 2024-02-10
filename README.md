@@ -9,7 +9,7 @@ collaborate with other engineers and contribute back to Open Source
 
 ## NOTE: In development
 
-- [.] REPL for kv store
+- [x] REPL for kv store
 
 <!-- 
 While our B+ tree now support concurrent operations, it's still a single
