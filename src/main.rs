@@ -1,9 +1,5 @@
-
-use crate::repl::*;
-
-
+mod repl;
 
 fn main() {
-    let mut kv = KVStore::new();
     
 }
